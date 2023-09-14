@@ -1,0 +1,51 @@
+#loginTable {
+    width: 100%;
+}
+#loginTable input {
+    border: red solid 2px;
+    height: 25px;
+    margin-right: 10px;
+    font-family: "sbm";
+    text-align: center;
+}
+
+#loginTable button {
+    border: none;
+    background-color: transparent;
+    color: red;
+    font-family: "sbm";
+    font-weight: 900;
+}
+
+#joinTable {
+    width: 30%;
+    background-image: url("../img/grad.jpg");
+}
+
+#joinTable th{
+    font-family: "sbm";
+    font-size: 30pt;
+    color: blue;
+    padding: 20px;
+}
+
+#joinTable input {
+    height: 40px;
+    width: 90%;
+    border: none;
+    font-family: "sbm";
+    padding: 5px;
+    font-size: 13pt;
+}
+
+#joinTable button {
+    border: none;
+    background-color: red;
+    font-weight: 900;
+    font-family: "sbm";
+    color: blue;
+    font-size: 17pt;
+    width: 92%;
+    padding: 10px;
+    margin: 10px;
+}
