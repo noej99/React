@@ -1,0 +1,10 @@
+.b {
+  background-color: yellow;
+}
+
+:global .b {
+  font-family: "궁서";
+}
+.b2 {
+    color: green;
+}

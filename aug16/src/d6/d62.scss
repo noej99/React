@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "cool";
+    src: url("./365cool.ttf");
+}
+
+@mixin fontCool() {
+    font-family: "cool";
+    font-size: 20pt;
+}
